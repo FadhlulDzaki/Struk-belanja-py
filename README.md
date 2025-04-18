@@ -1,2 +1,2 @@
-# Struk-belanja-py
+# Struk-belanja
 Membuat struk belanja sederhana
